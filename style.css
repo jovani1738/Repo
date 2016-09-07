@@ -7,5 +7,13 @@ p {
 
 }
 body {
-background-image: url(http://ndfapps.com/wp-content/uploads/2013/09/background-grey-photo-154096.jpg);
+background-image: url(https://img-www.tf-cdn.com/show/2/stranger-things.jpeg?_v=20160630134408&fit=crop&crop=faces%20top&w=1200&h=630);
+}
+
+img {
+  display: block;
+}
+
+a {
+  color: red;
 }
